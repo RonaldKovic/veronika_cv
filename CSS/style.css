@@ -694,11 +694,11 @@ img {
 .swiper-button-next {
   right: -0.5rem;
 }
-
+/*
 .swiper-container-horizontal > .swiper-pagination-bullets {
   bottom: -30px;
 }
-
+*/
 .swiper-pagination-bullet-active {
   background-color: var(--first-color);
 }
